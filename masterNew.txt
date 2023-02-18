@@ -1,1 +1,1 @@
-master new
+master new from master
