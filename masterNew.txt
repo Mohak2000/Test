@@ -3,3 +3,4 @@ master new from feature
 hello from master
 master new form feature2
 new brnach addition
+master addition
