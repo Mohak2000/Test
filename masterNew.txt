@@ -1,3 +1,4 @@
 master new from master
 master new from feature
 hello from master
+master new form feature2
